@@ -1,2 +1,4 @@
-# lab2-project 
-изменение небольшое 
+feat/add-greeter
+# lab2-project
+"Небольшое изменение."
+main
